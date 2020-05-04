@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894326121630",
+    "firebase_url": "https://ripple-3f9fe.firebaseio.com",
+    "project_id": "ripple-3f9fe",
+    "storage_bucket": "ripple-3f9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894326121630:android:3935a1cc3e069e0f0ec78f",
+        "android_client_info": {
+          "package_name": "com.example.ripple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894326121630-v678n9gomv0cf4jg4d9k25divncstdcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuE_N3hfdaSSnYRzU7X8NyLrJb5uKjCWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894326121630-v678n9gomv0cf4jg4d9k25divncstdcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
